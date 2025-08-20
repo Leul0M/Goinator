@@ -6065,7 +6065,7 @@
     "name": "Batman",
     "category": "fictional_characters",
     "traits": {
-      "has_superpowers": true,
+      "has_superpowers": false,
       "is_actor": true,
       "is_animal": false,
       "is_character": true,
@@ -6542,7 +6542,26 @@
     "traits": {
       "has_superpowers": false,
       "is_actor": false,
-      "is_animal": false,
+      "is_animal": true,
+      "is_character": true,
+      "is_famous": true,
+      "is_human": false,
+      "is_living": false,
+      "is_musician": false,
+      "is_object": false,
+      "is_politician": false,
+      "is_real": false,
+      "is_youtuber": false
+    }
+  },
+  {
+    "id": "internet_culture-41156988",
+    "name": "cat",
+    "category": "internet_culture",
+    "traits": {
+      "has_superpowers": false,
+      "is_actor": false,
+      "is_animal": true,
       "is_character": true,
       "is_famous": true,
       "is_human": false,
@@ -6550,7 +6569,45 @@
       "is_musician": false,
       "is_object": false,
       "is_politician": false,
-      "is_real": false,
+      "is_real": true,
+      "is_youtuber": false
+    }
+  },
+  {
+    "id": "internet_culture-41156988",
+    "name": "Dog",
+    "category": "internet_culture",
+    "traits": {
+      "has_superpowers": false,
+      "is_actor": false,
+      "is_animal": true,
+      "is_character": true,
+      "is_famous": true,
+      "is_human": false,
+      "is_living": true,
+      "is_musician": false,
+      "is_object": false,
+      "is_politician": false,
+      "is_real": true,
+      "is_youtuber": false
+    }
+  },
+  {
+    "id": "internet_culture-41156988",
+    "name": "bird",
+    "category": "internet_culture",
+    "traits": {
+      "has_superpowers": false,
+      "is_actor": false,
+      "is_animal": true,
+      "is_character": true,
+      "is_famous": true,
+      "is_human": false,
+      "is_living": true,
+      "is_musician": false,
+      "is_object": false,
+      "is_politician": false,
+      "is_real": true,
       "is_youtuber": false
     }
   },
