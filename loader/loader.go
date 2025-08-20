@@ -1,19 +1,19 @@
 package loader
 
 import (
-	_ "embed"
 	"encoding/json"
+	"math"
 	"os"
 
 	"Goinator/data"
 	"Goinator/tree"
 )
 
-// Record matches your renamed JSON.
+// Record matches the JSON file.
 type Record struct {
 	ID     string                 `json:"id"`
 	Name   string                 `json:"name"`
-	Traits map[string]interface{} `json:"traits"` // bool | null
+	Traits map[string]interface{} `json:"traits"`
 }
 
 // LoadEntities reads data/entities.json into a slice of Record.
@@ -26,62 +26,76 @@ func LoadEntities(path string) ([]Record, error) {
 	return recs, json.Unmarshal(b, &recs)
 }
 
-// BuildTree turns the flat list into a *tree.Node.
+// BuildTree builds an ID3-style decision tree from the records.
 func BuildTree(recs []Record) *tree.Node {
-	// stable order – adjust as you like
-	keys := []string{
-    "can_fly",
-    "has_fur_feathers",
-    "has_screen",
-    "has_superpowers",
-    "is_actor",
-    "is_electronic",
-    "is_famous",
-    "is_footwear",
-    "is_human",
-    "is_large_country",
-    "is_living",
-    "is_male",
-    "is_multiplayer",
-    "is_musician",
-    "is_personal",
-    "is_photo_sharing",
-    "is_politician",
-    "is_portable",
-    "is_real",
-    "is_superhero",
-    "is_sweet",
-    "is_youtuber",
-    "lives_in_water",
-}
-	return build(keys, recs)
+	// list of all possible trait keys
+	allKeys := []string{
+		"can_fly", "has_fur_feathers", "has_screen", "has_superpowers",
+		"is_actor", "is_electronic", "is_famous", "is_footwear",
+		"is_human", "is_large_country", "is_living", "is_male",
+		"is_multiplayer", "is_musician", "is_personal", "is_photo_sharing",
+		"is_politician", "is_portable", "is_real", "is_superhero",
+		"is_sweet", "is_youtuber", "lives_in_water",
+	}
+	return build(allKeys, recs)
 }
 
-// ---------- internal helpers ----------
+/* ---------- internal helpers ---------- */
 
-// build recurses down the question list.
+// build constructs the tree recursively.
 func build(keys []string, recs []Record) *tree.Node {
+	// leaf if no more questions or only one entity left
 	if len(keys) == 0 || len(recs) == 1 {
 		return &tree.Node{Entity: &data.Entity{Name: recs[0].Name}}
 	}
 
-	q := keys[0]
-	yes, no, other := split(recs, q)
+	// choose the best remaining question
+	q := bestQuestion(recs, keys)
+	if q == "" {
+		// no useful split → leaf with the first entity
+		return &tree.Node{Entity: &data.Entity{Name: recs[0].Name}}
+	}
 
-	n := &tree.Node{Question: q}
+	// split records
+	yes, no, _ := split(recs, q)
+
+	// build nextKeys (q removed)
+	nextKeys := make([]string, 0, len(keys)-1)
+	for _, k := range keys {
+		if k != q {
+			nextKeys = append(nextKeys, k)
+		}
+	}
+
+	node := &tree.Node{Question: q}
 	if len(yes) > 0 {
-		n.Yes = build(keys[1:], yes)
+		node.Yes = build(nextKeys, yes)
 	}
 	if len(no) > 0 {
-		n.No = build(keys[1:], no)
+		node.No = build(nextKeys, no)
 	}
-	if len(other) > 0 { // treat unknown/null as "no"
-		n.No = build(keys[1:], append(no, other...))
-	}
-	return n
+	return node
 }
 
-// split groups records by the value of a single trait.
+// bestQuestion returns the key with the highest information gain.
+func bestQuestion(recs []Record, keys []string) string {
+	bestGain, bestKey := -1.0, ""
+	total := float64(len(recs))
+	for _, k := range keys {
+		yes, no, _ := split(recs, k)
+		if len(yes) == 0 || len(no) == 0 {
+			continue // no information
+		}
+		gain := entropy(recs) -
+			(float64(len(yes))/total*entropy(yes) + float64(len(no))/total*entropy(no))
+		if gain > bestGain {
+			bestGain, bestKey = gain, k
+		}
+	}
+	return bestKey
+}
+
+// split groups records by trait value.
 func split(recs []Record, key string) (yes, no, other []Record) {
 	for _, r := range recs {
 		switch truth(r.Traits[key]) {
@@ -96,7 +110,7 @@ func split(recs []Record, key string) (yes, no, other []Record) {
 	return
 }
 
-// truth converts bool|null into our three-way int.
+// truth converts interface{} to ‑1,0,1.
 func truth(v interface{}) int8 {
 	if v == nil {
 		return 0
@@ -105,4 +119,14 @@ func truth(v interface{}) int8 {
 		return 1
 	}
 	return -1
+}
+
+// entropy computes Shannon entropy of a set of records.
+func entropy(recs []Record) float64 {
+	n := float64(len(recs))
+	if n == 0 {
+		return 0
+	}
+	p := 1.0 // only one class per leaf in our current setup
+	return -p * math.Log2(p)
 }

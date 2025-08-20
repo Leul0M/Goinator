@@ -5,11 +5,10 @@ package cmd
 
 import (
 	"Goinator/loader"
-	"bufio"
+	"Goinator/tui"
 	"fmt"
 	"os"
-	"strings"
-
+	tea "github.com/charmbracelet/bubbletea"
 	"github.com/spf13/cobra"
 )
 
@@ -21,35 +20,17 @@ var rootCmd = &cobra.Command{
 	to figure out which character you're thinking of. From fictional heroes to historical 
 	figures, the possibilities are endless! Just answer my questions with a simple 'yes' or 'no', 
 	and I'll do my best to guess who's on your mind.`,
-	// Uncomment the following line if your bare application
-	// has an action associated with it:
-	// Run: func(cmd *cobra.Command, args []string) { },
 	Run: func(cmd *cobra.Command, args []string) {
 		recs, err := loader.LoadEntities("data/entities.json")
 		if err != nil {
 			panic(err)
 		}
-
 		root := loader.BuildTree(recs)
-		node := root
-		reader := bufio.NewReader(os.Stdin)
 
-		for node.Entity == nil {
-			fmt.Println(node.Question + "?")
-			fmt.Print("y/n > ")
-			ans, _ := reader.ReadString('\n')
-			ans = strings.ToLower(strings.TrimSpace(ans))
-
-			if ans == "y" && node.Yes != nil {
-				node = node.Yes
-			} else if node.No != nil {
-				node = node.No
-			} else {
-				fmt.Println("I don’t know enough yet.")
-				return
-			}
+		p := tea.NewProgram(tui.New(root))
+		if _, err := p.Run(); err != nil {
+			fmt.Println("TUI error:", err)
 		}
-		fmt.Printf("I guess: %s\n", node.Entity.Name)
 	},
 }
 
