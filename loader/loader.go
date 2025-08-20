@@ -47,7 +47,10 @@ func BuildTree(recs []Record) *Node {
 }
 
 /* ---------- internal tree construction ---------- */
-
+// Recursive ID3 tree builder
+// 1) If only one record, return leaf with entity.
+// 2) If no more keys or no useful split, return leaf with best entity.
+// 3) Otherwise, split on best question and recurse.
 func build(keys []string, recs []Record) *Node {
 	// 1) single entity → leaf
 	if len(recs) == 1 {

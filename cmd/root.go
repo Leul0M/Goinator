@@ -12,7 +12,6 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "Goinator",
 	Short: "Think of anything you want and I'll try to guess it",

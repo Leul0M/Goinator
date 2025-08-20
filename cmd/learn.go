@@ -63,6 +63,7 @@ var learnCmd = &cobra.Command{
 			"is_youtuber",
 			"lives_in_water",
 		}
+		// Ask each key
 		for _, k := range keys {
 			fmt.Printf("%s (y/n): ", k)
 			ans, _ := reader.ReadString('\n')
