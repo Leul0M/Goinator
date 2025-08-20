@@ -26,7 +26,7 @@ var (
 [  @f | @))    |  | @))   l  0 _/  
  \/    /~____ / __ _____/      
   |           _l__l_           I   
-  }          [______]           I  ` + lipgloss.NewStyle().Foreground(lipgloss.Color("#00ccffff")).Render("Goinator!") + `
+  }          [______]           I  ` + lipgloss.NewStyle().Foreground(lipgloss.Color("#00ccffff")).Render("Hmm.... What are you thinking of?") + `
   ]            | | |            |  
   ]             ~ ~             |  
   |                            |   
@@ -87,7 +87,7 @@ func (m model) View() string {
 	}
 
 	// Style the question
-	coloredPrefix := lipgloss.NewStyle().Foreground(lipgloss.Color("#FFA500")).Bold(true).Render("❓ Question:")
+	coloredPrefix := lipgloss.NewStyle().Foreground(lipgloss.Color("#FFA500")).Bold(true).Render("❓ Question: Is He or She")
 	coloredQuestion := lipgloss.NewStyle().Foreground(lipgloss.Color("#FFD700")).Bold(true).Render(m.node.Question)
 	body.WriteString(fmt.Sprintf("%s %s\n\n", coloredPrefix, coloredQuestion))
 
@@ -95,7 +95,7 @@ func (m model) View() string {
 	yes := optionStyle.Render("[Y] Yes")
 	no := optionStyle.Render("[N] No")
 	switch m.selected {
-case "y":
+	case "y":
 		yes = highlightStyle.Render("[Y] Yes")
 	case "n":
 		no = highlightStyle.Render("[N] No")
