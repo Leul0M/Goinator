@@ -63,8 +63,17 @@ go build -o goinator
 ![demo](https://github.com/Leul0M/Goinator/blob/main/Screenshot/image2.png)
 
 ---
+### ✅ Up next – polish & gotchas 🚧
 
-## 📄 License
+🐛 **Data quality**  
+Most traits were scraped from the internet; expect **occasional wrong labels**.  
+Use `goinator learn --edit-id <id>` to fix them on the fly.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-```
+🎯 **Short TODO list**
+- 🧮 **Smarter priors** – replace the hard-coded 0.9 / 0.1 with real probabilities.  
+- 🖼️ **Richer UI** – add progress bar, colors, and a final “was I right?” screen.  
+- 🔍 **Search & stats** – `/stats` command to list the most-confusing traits.  
+- 🧹 **Auto-prune** – automatically drop questions that never split entities.  
+- 🪄 **Persist session** – remember the last 10 games for quick replay.
+
+Happy guessing! 🎲
