@@ -1,7 +1,7 @@
 
 
 # 🧞‍♂️ Goinator
-A tiny [akinator](https://en.akinator.com) clone in [Go](https://go.dev)
+A tiny [Akinator](https://en.akinator.com) clone in [Go](https://go.dev)
 Ask questions, guess characters, learn new ones.
 
 ---
@@ -60,7 +60,24 @@ with 23 boolean traits such as `is_real`, `can_fly`, `is_youtuber` …
 go build -o goinator
 ./goinator
 ```
+### 🧠 How the Magic Works
 
+1️⃣ **Load the brain**  
+   On start-up we read `data/entities.json` (23 yes/no traits per character).
+
+2️⃣ **Build a smart tree**  
+   Using **information-gain (ID3)** we build a decision tree that always asks the *most useful* question next—so you usually finish in **4–7 questions** instead of 23.
+
+3️⃣ **Walk the tree**  
+   Every answer (`y` / `n`) moves you down a branch until we hit a **leaf**.
+
+4️⃣ **Bayesian tie-breaker**  
+   If traits are missing and multiple characters are still possible, we rank them with **Naïve Bayes** and pick the highest-probability one.
+
+5️⃣ **Learn on the fly**  
+   Run `goinator learn` at any time to append or edit records—no recompile needed!
+
+🔄 **Cycle**: play → miss → fix → play again. The more you teach it, the smarter it gets!
 ---
 
 
