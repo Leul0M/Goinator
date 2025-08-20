@@ -10,6 +10,7 @@ Ask questions, guess characters, learn new ones.
 
 # 1. Clone & enter
 git clone https://github.com/Leul0M/Goinator.git
+
 cd Goinator
 
 # 2. Run
@@ -57,8 +58,9 @@ go build -o goinator
 
 ## 📸 Screenshot
 
-![demo](https://user-images.githubusercontent.com/yourname/.../goinator.gif)
-*(replace with your own GIF)*
+![demo](https://github.com/Leul0M/Goinator/blob/main/Screenshot/image1.png)
+
+![demo](https://github.com/Leul0M/Goinator/blob/main/Screenshot/image2.png)
 
 ---
 
