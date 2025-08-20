@@ -1,15 +1,14 @@
-Save the text below **exactly as-is** into a file named `README.md`; GitHub will render the colors & badges automatically.
 
-```markdown
-# 🧞‍♂️ Goinator
-**A tiny Akinator clone in Go**  
-*Ask questions, guess characters, learn new ones.*
+
+🧞‍♂️ Goinator
+A tiny Akinator clone in Go
+Ask questions, guess characters, learn new ones.
 
 ---
 
-## 🚀 Quick Start
+🚀 Quick Start
 
-```bash
+
 # 1. Clone & enter
 git clone https://github.com/yourname/Goinator.git
 cd Goinator
@@ -18,7 +17,7 @@ cd Goinator
 go run .
 ```
 
----
+
 
 ## 🎮 How to Play
 
