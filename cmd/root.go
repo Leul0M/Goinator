@@ -4,7 +4,7 @@ Copyright © 2025 Lex
 package cmd
 
 import (
-	"Goinator/data"
+	"Goinator/loader"
 	"bufio"
 	"fmt"
 	"os"
@@ -25,25 +25,32 @@ var rootCmd = &cobra.Command{
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
 	Run: func(cmd *cobra.Command, args []string) {
-    reader := bufio.NewReader(os.Stdin)
-    answers := make([]bool, 0, len(data.Questions))
+		recs, err := loader.LoadEntities("data/entities.json")
+		if err != nil {
+			panic(err)
+		}
 
-    for _, q := range data.Questions {
-        fmt.Println(q.Text)
-        fmt.Print("y/n > ")
+		root := loader.BuildTree(recs)
+		node := root
+		reader := bufio.NewReader(os.Stdin)
 
-        ans, _ := reader.ReadString('\n')
-        ans = strings.ToLower(strings.TrimSpace(ans))
-        answers = append(answers, ans == "y")
-    }
+		for node.Entity == nil {
+			fmt.Println(node.Question + "?")
+			fmt.Print("y/n > ")
+			ans, _ := reader.ReadString('\n')
+			ans = strings.ToLower(strings.TrimSpace(ans))
 
-    // naive match: all 3 answers must be yes
-    if len(answers) == 3 && answers[0] && answers[1] && answers[2] {
-        fmt.Printf("I guess: %s\n", data.Secret.Name)
-    } else {
-        fmt.Println("I don't know yet.")
-    }
-},
+			if ans == "y" && node.Yes != nil {
+				node = node.Yes
+			} else if node.No != nil {
+				node = node.No
+			} else {
+				fmt.Println("I don’t know enough yet.")
+				return
+			}
+		}
+		fmt.Printf("I guess: %s\n", node.Entity.Name)
+	},
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
