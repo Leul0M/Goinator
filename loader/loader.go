@@ -5,10 +5,9 @@ import (
 	"math"
 	"os"
 	"sort"
-
-	"Goinator/data"
-	"Goinator/tree"
 )
+
+/* ---------- JSON record ---------- */
 
 type Record struct {
 	ID     string                 `json:"id"`
@@ -16,6 +15,22 @@ type Record struct {
 	Traits map[string]interface{} `json:"traits"`
 }
 
+/* ---------- tree node ---------- */
+
+type Entity struct {
+	Name string
+}
+
+type Node struct {
+	Question string
+	Yes      *Node
+	No       *Node
+	Entity   *Entity
+}
+
+/* ---------- public API ---------- */
+
+// LoadEntities reads the JSON file into a slice of Record.
 func LoadEntities(path string) ([]Record, error) {
 	b, err := os.ReadFile(path)
 	if err != nil {
@@ -25,47 +40,45 @@ func LoadEntities(path string) ([]Record, error) {
 	return recs, json.Unmarshal(b, &recs)
 }
 
-func BuildTree(recs []Record) *tree.Node {
+// BuildTree builds an ID3 + Bayesian tree from the records.
+func BuildTree(recs []Record) *Node {
 	allKeys := keysFromRecords(recs)
 	return build(allKeys, recs)
 }
 
-/* ---------- tree construction ---------- */
+/* ---------- internal tree construction ---------- */
 
-// build : recursive ID3 + Bayesian tie-breaker
-func build(keys []string, recs []Record) *tree.Node {
+func build(keys []string, recs []Record) *Node {
 	// 1) single entity → leaf
 	if len(recs) == 1 {
-		return &tree.Node{Entity: &data.Entity{Name: recs[0].Name}}
+		return &Node{Entity: &Entity{Name: recs[0].Name}}
 	}
-	// 2) no more keys or no useful split → pick the highest-probability entity
+	// 2) no more keys or no useful split → pick best entity
 	if len(keys) == 0 {
 		return pickBestEntity(recs)
 	}
 
 	q := bestQuestion(recs, keys)
-	if q == "" {
+	if q == "" { // no useful split
 		return pickBestEntity(recs)
 	}
 
 	yes, no, _ := split(recs, q)
 	nextKeys := remove(keys, q)
 
-	node := &tree.Node{Question: q}
+	n := &Node{Question: q}
 	if len(yes) > 0 {
-		node.Yes = build(nextKeys, yes)
+		n.Yes = build(nextKeys, yes)
 	}
 	if len(no) > 0 {
-		node.No = build(nextKeys, no)
+		n.No = build(nextKeys, no)
 	}
-	return node
+	return n
 }
 
 /* ---------- Bayesian tie-breaker ---------- */
 
-// pickBestEntity returns a leaf with the single highest-probability entity.
-func pickBestEntity(recs []Record) *tree.Node {
-	// uniform prior
+func pickBestEntity(recs []Record) *Node {
 	prior := 1.0 / float64(len(recs))
 	bestName := recs[0].Name
 	bestProb := 0.0
@@ -75,9 +88,9 @@ func pickBestEntity(recs []Record) *tree.Node {
 		for _, v := range r.Traits {
 			switch truth(v) {
 			case 1:
-				ll += math.Log(0.9) // P(true | feature)
+				ll += math.Log(0.9)
 			case -1:
-				ll += math.Log(0.1) // P(false | feature)
+				ll += math.Log(0.1)
 			}
 		}
 		prob := math.Exp(ll)
@@ -85,15 +98,13 @@ func pickBestEntity(recs []Record) *tree.Node {
 			bestProb, bestName = prob, r.Name
 		}
 	}
-	return &tree.Node{Entity: &data.Entity{Name: bestName}}
+	return &Node{Entity: &Entity{Name: bestName}}
 }
 
 /* ---------- ID3 helpers ---------- */
 
 func bestQuestion(recs []Record, keys []string) string {
 	bestGain, bestKey := -1.0, ""
-	total := float64(len(recs))
-_ = total // silence unused (if the compiler complains)
 	for _, k := range keys {
 		yes, no, _ := split(recs, k)
 		if len(yes) == 0 || len(no) == 0 {
@@ -109,9 +120,6 @@ _ = total // silence unused (if the compiler complains)
 
 func entropyGain(parent, yes, no []Record) float64 {
 	total := float64(len(parent))
-	if total == 0 {
-		return 0
-	}
 	return entropy(parent) -
 		(float64(len(yes))/total*entropy(yes) + float64(len(no))/total*entropy(no))
 }

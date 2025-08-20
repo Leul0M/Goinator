@@ -1,7 +1,7 @@
 package tui
 
 import (
-	"Goinator/tree"
+	"Goinator/loader"
 	"fmt"
 	"strings"
 
@@ -36,12 +36,12 @@ var (
 )
 
 type model struct {
-	node     *tree.Node
+	node     *loader.Node
 	done     bool
 	selected string // "y" or "n"
 }
 
-func New(root *tree.Node) tea.Model {
+func New(root *loader.Node) tea.Model {
 	return &model{node: root}
 }
 
@@ -103,4 +103,3 @@ func (m model) View() string {
 
 	return body.String()
 }
-
