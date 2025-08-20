@@ -15,7 +15,7 @@ cd Goinator
 
 # 2. Run
 go run .
-```
+
 
 
 
@@ -27,7 +27,7 @@ go run .
 | `n` | answer **no** |
 | `q` / `Ctrl-C` | quit |
 
----
+
 
 ## 🧠 Data
 
@@ -35,7 +35,7 @@ All entities live in
 [`data/entities.json`](data/entities.json)  
 with 23 boolean traits such as `is_real`, `can_fly`, `is_youtuber` …
 
----
+
 
 ## 🔧 Commands
 
@@ -45,7 +45,7 @@ with 23 boolean traits such as `is_real`, `can_fly`, `is_youtuber` …
 | `go run . learn` | add a new entity interactively |
 | `go run . --stats` | see tree statistics |
 
----
+
 
 ## 🛠️ Build
 
