@@ -94,9 +94,10 @@ func (m model) View() string {
 	// Options with dynamic highlighting
 	yes := optionStyle.Render("[Y] Yes")
 	no := optionStyle.Render("[N] No")
-	if m.selected == "y" {
+	switch m.selected {
+case "y":
 		yes = highlightStyle.Render("[Y] Yes")
-	} else if m.selected == "n" {
+	case "n":
 		no = highlightStyle.Render("[N] No")
 	}
 	body.WriteString(fmt.Sprintf("Options: %s  %s  (q to quit)\n", yes, no))
