@@ -1,8 +1,15 @@
 
 
 # 🧞‍♂️ Goinator
-A tiny Akinator clone in Go
+A tiny https://en.akinator.com clone in https://go.dev
 Ask questions, guess characters, learn new ones.
+
+---
+## 📸 Screenshot
+
+![demo](https://github.com/Leul0M/Goinator/blob/main/Screenshot/image1.png)
+
+![demo](https://github.com/Leul0M/Goinator/blob/main/Screenshot/image2.png)
 
 ---
 
@@ -56,13 +63,7 @@ go build -o goinator
 
 ---
 
-## 📸 Screenshot
 
-![demo](https://github.com/Leul0M/Goinator/blob/main/Screenshot/image1.png)
-
-![demo](https://github.com/Leul0M/Goinator/blob/main/Screenshot/image2.png)
-
----
 ### ✅ Up next – polish & gotchas 🚧
 
 🐛 **Data quality**  
