@@ -16,7 +16,7 @@ type Record struct {
 	Traits map[string]interface{} `json:"traits"` // bool | null
 }
 
-// LoadEntities reads datafiles/entities.json into a slice of Record.
+// LoadEntities reads data/entities.json into a slice of Record.
 func LoadEntities(path string) ([]Record, error) {
 	b, err := os.ReadFile(path)
 	if err != nil {
@@ -29,7 +29,31 @@ func LoadEntities(path string) ([]Record, error) {
 // BuildTree turns the flat list into a *tree.Node.
 func BuildTree(recs []Record) *tree.Node {
 	// stable order – adjust as you like
-	keys := []string{"is_real", "is_human", "is_living", "is_male", "is_famous", "is_youtuber"}
+	keys := []string{
+    "can_fly",
+    "has_fur_feathers",
+    "has_screen",
+    "has_superpowers",
+    "is_actor",
+    "is_electronic",
+    "is_famous",
+    "is_footwear",
+    "is_human",
+    "is_large_country",
+    "is_living",
+    "is_male",
+    "is_multiplayer",
+    "is_musician",
+    "is_personal",
+    "is_photo_sharing",
+    "is_politician",
+    "is_portable",
+    "is_real",
+    "is_superhero",
+    "is_sweet",
+    "is_youtuber",
+    "lives_in_water",
+}
 	return build(keys, recs)
 }
 
