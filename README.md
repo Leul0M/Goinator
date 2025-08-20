@@ -1,12 +1,12 @@
 
 
-🧞‍♂️ Goinator
+# 🧞‍♂️ Goinator
 A tiny Akinator clone in Go
 Ask questions, guess characters, learn new ones.
 
 ---
 
-🚀 Quick Start
+# 🚀 Quick Start
 
 
 # 1. Clone & enter
