@@ -8,9 +8,8 @@ Ask questions, guess characters, learn new ones.
 
 # 🚀 Quick Start
 
-
 # 1. Clone & enter
-git clone https://github.com/yourname/Goinator.git
+git clone https://github.com/Leul0M/Goinator.git
 cd Goinator
 
 # 2. Run
