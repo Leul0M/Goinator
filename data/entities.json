@@ -1,0 +1,9475 @@
+[
+  {
+    "id": "animated_chars-57901354",
+    "name": "Lola and Mila",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "clothing-1831756",
+    "name": "Clothing terminology",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-52841665",
+    "name": "Thermophyte",
+    "category": "plants",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-1886340",
+    "name": "Mixer (appliance)",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-61708",
+    "name": "Shrub",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-leonrdo_d_vinci-79",
+    "name": "Leonardo da Vinci",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-51653845",
+    "name": "Alexander Bernhard Dräger",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-66745780",
+    "name": "Animator vs. Animation",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "personal-My_teacher-5",
+    "name": "My teacher",
+    "category": "personal",
+    "answers": {
+      "is_famous": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_personal": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "clothing-75218698",
+    "name": "Meitei clothing in Bangladesh",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-2184210",
+    "name": "4th Disciple",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-rihnn-10",
+    "name": "Rihanna",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-ksi-40",
+    "name": "KSI",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0,
+      "is_youtuber": -1
+    }
+  },
+  {
+    "id": "superheroes-61716318",
+    "name": "Superheroes: Fashion and Fantasy",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "merged-dwyne_johnson-62",
+    "name": "Dwayne Johnson",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-536197",
+    "name": "Can opener",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-101900",
+    "name": "Musical instrument classification",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-11015826",
+    "name": "Blu-ray",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-232810",
+    "name": "Fürst",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-67732240",
+    "name": "Natural-born-citizen clause",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-190996",
+    "name": "Lignin",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-53299482",
+    "name": "442oons",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-1044871",
+    "name": "Chester Cheetah",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "plants-77047046",
+    "name": "Plant soul",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-72190155",
+    "name": "Olaxson A Tamba",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-78938365",
+    "name": "Clapper (service)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-1651717",
+    "name": "Ambient device",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "electronics-273555",
+    "name": "CES (trade show)",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-40348717",
+    "name": "Tandi Iman Dupree",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "vehicles-10082867",
+    "name": "Vehicular metrics",
+    "category": "vehicles",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-2614932",
+    "name": "Malebolgia",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "plants-14740927",
+    "name": "Euphyllophyte",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "merged-george_wshington-30",
+    "name": "George Washington",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-drth_vder-81",
+    "name": "Darth Vader",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "viral_videos-50102268",
+    "name": "Angel (Taher Shah song)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-74599110",
+    "name": "1nonly",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-32196093",
+    "name": "Aimi Eguchi",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "electronics-680598",
+    "name": "CD",
+    "category": "electronics",
+    "answers": {
+      "has_screen": -1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-mhtm_gndhi-4",
+    "name": "Mahatma Gandhi",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-240716",
+    "name": "Netochka Nezvanova (author)",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "books-2417934",
+    "name": "Independent bookstore",
+    "category": "books",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "celebrities-6669774",
+    "name": "40 Cal.",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-71994781",
+    "name": "Arturia MicroFreak",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-755485",
+    "name": "Hospodar",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-549000",
+    "name": "Hallmark",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-13196933",
+    "name": "12 Gauge (rapper)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-johnny_depp-22",
+    "name": "Johnny Depp",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 1,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "presidents-29389369",
+    "name": "President of the council of state",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-73284402",
+    "name": "Abaeté (clothing)",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-75218696",
+    "name": "Meitei clothing in Myanmar",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-6429",
+    "name": "Compact disc",
+    "category": "electronics",
+    "answers": {
+      "has_screen": -1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-37919486",
+    "name": "Anti-griddle",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-6848501",
+    "name": "Ephemeral plant",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-33433141",
+    "name": "Roasting pan",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-38565804",
+    "name": "Libon (service)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "countries-5165",
+    "name": "Country",
+    "category": "countries",
+    "answers": {
+      "is_human": -1,
+      "is_large_country": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-26921054",
+    "name": "Grand Mughal",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-61456557",
+    "name": "Kuaishou",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-64451737",
+    "name": "QuarantineChat",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-192043",
+    "name": "CD player",
+    "category": "electronics",
+    "answers": {
+      "has_screen": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_portable": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-13820259",
+    "name": "A-Q",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-36536119",
+    "name": "ResearchGate",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-379928",
+    "name": "King Rollo",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "heads_of_state-1976656",
+    "name": "Consortium imperii",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-41306263",
+    "name": "1987 (artist)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "vehicles-41799215",
+    "name": "Lakester",
+    "category": "vehicles",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-cleoptr-70",
+    "name": "Cleopatra",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": -1,
+      "is_male": -1,
+      "is_politician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-love-74",
+    "name": "Love",
+    "category": "personal",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_personal": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "monarchs-80159209",
+    "name": "Thawanthaba",
+    "category": "monarchs",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-59893956",
+    "name": "Net ecosystem production",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-35457850",
+    "name": "Social Reader",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-39576270",
+    "name": "Thomann (retailer)",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-7",
+    "name": "Bed",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": -1,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-2251076",
+    "name": "Breakin' 2: Electric Boogaloo",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-62517951",
+    "name": "1.Cuz",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-1231580",
+    "name": "Bowl",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "instruments-56886",
+    "name": "Transposing instrument",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-triller-13",
+    "name": "Triller (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-2270509",
+    "name": "Aryamehr",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-21115753",
+    "name": "Bread warmer",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-17660586",
+    "name": "ReverbNation",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-ngelin_jolie-57",
+    "name": "Angelina Jolie",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_musician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-ninj-71",
+    "name": "Ninja (gamer)",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "internet_memes-401625",
+    "name": "Capture of Saddam Hussein",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-18748891",
+    "name": "Cherry pitter",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-7353215",
+    "name": "Family of musical instruments",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-69831236",
+    "name": "Baofeng UV-5R",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-5830316",
+    "name": "Hoops \u0026 Yoyo",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "clothing-80608335",
+    "name": "Jamana",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-4196196",
+    "name": "Stainless steel soap",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-6014",
+    "name": "Cathode-ray tube",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-52446139",
+    "name": "Al-hurra",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "tv_personalities-49030",
+    "name": "José Ramos-Horta",
+    "category": "tv_personalities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "military_leaders-78459649",
+    "name": "Umetaaly",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-9292074",
+    "name": "A-Plus (rapper)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "military_leaders-70506555",
+    "name": "Uma Duyev",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-79878561",
+    "name": "Bring Kids Back UA",
+    "category": "brands",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-76797008",
+    "name": "Biscuit warmer",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-3304025",
+    "name": "Béla Barényi",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "military_leaders-1560",
+    "name": "Ahmad Shah Durrani",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-30870570",
+    "name": "Casio CZ synthesizers",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-25947118",
+    "name": "Gustafer Yellowgold",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "superheroes-467155",
+    "name": "The Tom Green Show",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-6853229",
+    "name": "Visite du Branchage",
+    "category": "plants",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-emm_chmberlin-36",
+    "name": "Emma Chamberlain",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "inventors-170982",
+    "name": "Hedy Lamarr",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "tv_personalities-52768212",
+    "name": "Aniceto Porsisoca",
+    "category": "tv_personalities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-318779",
+    "name": "Embryophyte",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-345802",
+    "name": "John Cena",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-78460267",
+    "name": "A K Fazlul Haque Bhuiyan",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-28277636",
+    "name": "Elgg (software)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animals-228626",
+    "name": "Parazoa",
+    "category": "animals",
+    "answers": {
+      "can_fly": 0,
+      "has_fur_feathers": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": -1,
+      "lives_in_water": 0
+    }
+  },
+  {
+    "id": "instruments-45540952",
+    "name": "Conservation and restoration of musical instruments",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "merged-jke_pul-54",
+    "name": "Jake Paul",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "kitchen_utensils-53924926",
+    "name": "Daunglan",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-mickey_mouse-21",
+    "name": "Mickey Mouse",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "viral_videos-36373401",
+    "name": "Arrest of Vladimir Putin: A Report from the Courtroom",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "heads_of_state-1463089",
+    "name": "Amenukal",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-6291",
+    "name": "Roman censor",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "foods-76898727",
+    "name": "Kōji (food)",
+    "category": "foods",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "instruments-142748",
+    "name": "Membranophone",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-33882",
+    "name": "Woodwind instrument",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-brck_obm-17",
+    "name": "Barack Obama",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-jmes_bond-48",
+    "name": "James Bond",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": -1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "heads_of_state-533383",
+    "name": "Khagan",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-2072855",
+    "name": "Decanter",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-347002",
+    "name": "Audio equipment",
+    "category": "electronics",
+    "answers": {
+      "has_screen": -1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-veget-15",
+    "name": "Vegeta",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "animated_chars-18600328",
+    "name": "Gollum",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "military_leaders-5537314",
+    "name": "Tacfarinas",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": -1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "musicians-11579263",
+    "name": "Songster",
+    "category": "musicians",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-goku-84",
+    "name": "Goku",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-54667600",
+    "name": "4th Pyramid",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-62696810",
+    "name": "Pleroma (software)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-5235850",
+    "name": "AV receiver",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-book-72",
+    "name": "Book",
+    "category": "books",
+    "answers": {
+      "is_electronic": 1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-8111715",
+    "name": "Pérák, the Spring Man of Prague",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-72690282",
+    "name": "4K Gaming Nepal",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-60972435",
+    "name": "Metaphenomics",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-3837885",
+    "name": "Crysis (video game)",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-17097201",
+    "name": "2 Tuff Tony",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-66959106",
+    "name": "Kalevala (brand)",
+    "category": "brands",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "philosophers-13692155",
+    "name": "Philosophy",
+    "category": "philosophers",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-66368969",
+    "name": "Virtual influencer",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "heads_of_state-3262111",
+    "name": "Chief magistrate",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "heads_of_state-10111",
+    "name": "Emperor",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-2400728",
+    "name": "9th Wonder",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-34712235",
+    "name": "Distributed Social Networking Protocol",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-wolverine-27",
+    "name": "Wolverine (character)",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "superheroes-9140024",
+    "name": "Ten Brothers",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-57567228",
+    "name": "070 Shake",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-dvid_dobrik-44",
+    "name": "David Dobrik",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "animated_chars-55739034",
+    "name": "Kibosh (Casper the Friendly Ghost)",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-39582405",
+    "name": "Darbar (title)",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "monarchs-10330111",
+    "name": "Anti-king",
+    "category": "monarchs",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "instruments-996250",
+    "name": "Electric organ",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-1723057",
+    "name": "Automotive head unit",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-8946964",
+    "name": "Betamovie",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-1822980",
+    "name": "All I Want for Christmas Is You",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-27440536",
+    "name": "Knife rest",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-56684417",
+    "name": "Fashion influencer",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-64608",
+    "name": "Grand duke",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "brands-18950900",
+    "name": "Brand",
+    "category": "brands",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-3702241",
+    "name": "Plantlet",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "foods-77731753",
+    "name": "Sledging ration",
+    "category": "foods",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "everyday_objects-8",
+    "name": "Refrigerator",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-13581120",
+    "name": "The Amazing Panda Adventure",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-5014630",
+    "name": "Oven glove",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-donld_trump-47",
+    "name": "Donald Trump",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-46614658",
+    "name": "Triposo",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-8409",
+    "name": "Dictator",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-49597601",
+    "name": "Challenger brand",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-66855029",
+    "name": "CallApp",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-43627384",
+    "name": "Solaborate",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-doge-45",
+    "name": "Doge (title)",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0,
+      "is_youtuber": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-11557125",
+    "name": "Usenet personality",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-tylor_swift-82",
+    "name": "Taylor Swift",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-59140701",
+    "name": "GuySpy",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-7739869",
+    "name": "Semantically Interlinked Online Communities",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-67120122",
+    "name": "Qiteng",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "foods-3133549",
+    "name": "Natural food",
+    "category": "foods",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "instruments-1939934",
+    "name": "Instrumentation (music)",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-10",
+    "name": "Toilet",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": -1,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-73796568",
+    "name": "Fashion brand",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-9765502",
+    "name": "Cloth modeling",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-19819073",
+    "name": "Elfster",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-41264280",
+    "name": "AllJoyn",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-70544814",
+    "name": "William Boulton (engineer)",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "video_games-5363",
+    "name": "Video game",
+    "category": "video_games",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_multiplayer": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "brands-1219008",
+    "name": "Umbrella brand",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-4459459",
+    "name": "Soap dispenser",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-elvis_presley-29",
+    "name": "Elvis Presley",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-1775432",
+    "name": "Khagan Bek",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-16924866",
+    "name": "Self-brand",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-72523905",
+    "name": "A Bu",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-13058007",
+    "name": "ExpoTV",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-76109724",
+    "name": "Lapse (social network)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-32804414",
+    "name": "Stock pot",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-1442862",
+    "name": "King Leonardo and His Short Subjects",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "brands-16673377",
+    "name": "Fighter brand",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-74848871",
+    "name": "Meitei headwear",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-75122612",
+    "name": "7liwa",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-68656182",
+    "name": "Bluesky",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-18952287",
+    "name": "Woody plant",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animals-14990054",
+    "name": "Sleep in animals",
+    "category": "animals",
+    "answers": {
+      "can_fly": 1,
+      "has_fur_feathers": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0,
+      "lives_in_water": 1
+    }
+  },
+  {
+    "id": "heads_of_state-178427",
+    "name": "Emir",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "military_leaders-77014317",
+    "name": "Malik Akora khan Khattak",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-27236648",
+    "name": "Form-fitting garment",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-38566488",
+    "name": "Trademark look",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "social_media-39191199",
+    "name": "Moment.me",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "instruments-54547190",
+    "name": "Recording studio as an instrument",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-59207619",
+    "name": "Ekola",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "countries-30108",
+    "name": "Tajikistan",
+    "category": "countries",
+    "answers": {
+      "is_human": -1,
+      "is_large_country": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-3739389",
+    "name": "By the Grace of God",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-1031396",
+    "name": "Kitchenware",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-15894895",
+    "name": "Paila",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-5194433",
+    "name": "MySociety",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-6970425",
+    "name": "Order of succession",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-27054",
+    "name": "Service mark",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-25225745",
+    "name": "Grindr",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-1523941",
+    "name": "Axel F",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "brands-1630984",
+    "name": "Brand strength analysis",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-2079605",
+    "name": "Country of origin",
+    "category": "brands",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "books-2415368",
+    "name": "Bookstore tourism",
+    "category": "books",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-7190236",
+    "name": "Dailymotion",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-66542700",
+    "name": "LBRY",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-23789471",
+    "name": "Skype Qik",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-6047",
+    "name": "Consul",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-20881584",
+    "name": "Beverage opener",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-50780608",
+    "name": "Caucasian dhol",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-1863359",
+    "name": "Folk instrument",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-80069973",
+    "name": "Ai Scream!",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "books-1618257",
+    "name": "Used book",
+    "category": "books",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-10457943",
+    "name": "Reconstructed clothing",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-39984881",
+    "name": "Phytogeomorphology",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-76814007",
+    "name": "9lives",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-74395207",
+    "name": "Misskey",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-53650699",
+    "name": "April (giraffe)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "personal-Death-7",
+    "name": "Death",
+    "category": "personal",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_personal": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-47767241",
+    "name": "2 Pistols",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-8671992",
+    "name": "Honing steel",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-50338260",
+    "name": "21 Savage",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-61064875",
+    "name": "Mid-luxury",
+    "category": "brands",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-320056",
+    "name": "Pyrex",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-40255977",
+    "name": "Stinging plant",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-2047790",
+    "name": "Bug zapper",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "merged-knye_west-6",
+    "name": "Kanye West",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-kenu_reeves-73",
+    "name": "Keanu Reeves",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-1687359",
+    "name": "Primary succession",
+    "category": "plants",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-31602166",
+    "name": "Privacy concerns with social networking services",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "personal-My_dad-1",
+    "name": "My dad",
+    "category": "personal",
+    "answers": {
+      "is_famous": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_personal": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "brands-7216047",
+    "name": "Product proliferation",
+    "category": "brands",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-63981050",
+    "name": "Lysn",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-7878457",
+    "name": "Computer",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-68117755",
+    "name": "Elmo Aardvark",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "instruments-55980505",
+    "name": "Duitara",
+    "category": "instruments",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-74532871",
+    "name": "The Amazing Digital Circus",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "electronics-6453717",
+    "name": "Air source heat pump",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-72291232",
+    "name": "Artel Electronics",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-75510338",
+    "name": "Apology video",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-503493",
+    "name": "Non-vascular plant",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-61413234",
+    "name": "2Rude",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-3186569",
+    "name": "Inventors' Day",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-15252233",
+    "name": "Odnoklassniki",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-80536231",
+    "name": "Tea (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-0",
+    "name": "Smartphone",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 1,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-sherlock_holmes-8",
+    "name": "Sherlock Holmes",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "viral_videos-27142140",
+    "name": "Annoying Orange",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_memes-16234006",
+    "name": "Bear Surprise",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-65187468",
+    "name": "Bongcloud Attack",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-41263577",
+    "name": "3lau",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-wonder_womn-58",
+    "name": "Wonder Woman",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "heads_of_state-3200623",
+    "name": "Apostolic Majesty",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-43804789",
+    "name": "Numbuster",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-73009349",
+    "name": "Bondee",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-69417331",
+    "name": "RealCall",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "merged-nelson_mndel-20",
+    "name": "Nelson Mandela",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-19595705",
+    "name": "Barbie Girl",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-3441249",
+    "name": "Appointment with F.E.A.R.",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "personal-My_mom-0",
+    "name": "My mom",
+    "category": "personal",
+    "answers": {
+      "is_famous": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": -1,
+      "is_personal": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "plants-39892795",
+    "name": "Biomass partitioning",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-60579726",
+    "name": "Nurse plant",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "foods-7976",
+    "name": "Dessert",
+    "category": "foods",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0,
+      "is_sweet": 1
+    }
+  },
+  {
+    "id": "viral_videos-21394000",
+    "name": "Bale Out",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-24110",
+    "name": "President (government title)",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-66966",
+    "name": "Vascular plant",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-3",
+    "name": "Car",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "vehicles-421597",
+    "name": "Tractive effort",
+    "category": "vehicles",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-36388930",
+    "name": "The Baddest (Froggy Fresh song)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "heads_of_state-1646488",
+    "name": "Chanyu",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-1497353",
+    "name": "Capitán Trueno",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "books-79552921",
+    "name": "Book nook",
+    "category": "books",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-53145360",
+    "name": "RoundMe",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "foods-79358826",
+    "name": "Office Burger",
+    "category": "foods",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "merged-dm_schleichkorn-68",
+    "name": "Adam Schleichkorn",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-1094730",
+    "name": "The Man from Another Place",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "merged-btmn-42",
+    "name": "Batman",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "electronics-92791",
+    "name": "Audio power amplifier",
+    "category": "electronics",
+    "answers": {
+      "has_screen": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-74758355",
+    "name": "250 (musician)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-56280013",
+    "name": "Marco Polo (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-67129279",
+    "name": "Moj (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animals-144219",
+    "name": "Wildlife",
+    "category": "animals",
+    "answers": {
+      "can_fly": 1,
+      "has_fur_feathers": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0,
+      "lives_in_water": -1
+    }
+  },
+  {
+    "id": "heads_of_state-217271",
+    "name": "Bey",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-80498140",
+    "name": "8485",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-68113646",
+    "name": "Josh (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-2867523",
+    "name": "Calculator watch",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-11342574",
+    "name": "How I Unleashed World War II",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-170736",
+    "name": "Understory",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-39915658",
+    "name": "Vintage musical equipment",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "animated_chars-36167630",
+    "name": "Colonel Heeza Liar",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "presidents-242991",
+    "name": "President of the Republic",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-53841056",
+    "name": "Juicero",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-bugs_bunny-78",
+    "name": "Bugs Bunny",
+    "category": "animated_chars",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "brands-79315786",
+    "name": "Sp5der",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-68337727",
+    "name": "The 8-Bit Guy",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-15343985",
+    "name": "MyHeritage",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "viral_videos-61847987",
+    "name": "Bad Apple!!",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-1853276",
+    "name": "Bad Day (viral video)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-3859329",
+    "name": "Music store",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "vehicles-55467476",
+    "name": "Superpedestrian",
+    "category": "vehicles",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-43076",
+    "name": "Superhero",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": -1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-74002663",
+    "name": "Bárður á Reynatrøð",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-39407503",
+    "name": "Tango Live",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-36561985",
+    "name": "Garad",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-44393684",
+    "name": "A-FÜ",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-robert_downey_jr-85",
+    "name": "Robert Downey Jr.",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-77180175",
+    "name": "Naara Aaba",
+    "category": "brands",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-62424202",
+    "name": "2Shotz",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-music_technology-75",
+    "name": "Music technology",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-80656804",
+    "name": "Newsfluencer",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-59659495",
+    "name": "Instagram egg",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-28370262",
+    "name": "Banke Mian",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "plants-62176672",
+    "name": "Barinophytaceae",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-2390680",
+    "name": "Entomophily",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-60962435",
+    "name": "Photothermal ratio",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-16458049",
+    "name": "9ice",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-4371894",
+    "name": "A-Trak",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animals-1132756",
+    "name": "Animal locomotion",
+    "category": "animals",
+    "answers": {
+      "can_fly": 1,
+      "has_fur_feathers": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0,
+      "lives_in_water": 0
+    }
+  },
+  {
+    "id": "instruments-38504932",
+    "name": "Novation Launchpad",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-33443220",
+    "name": "Brickleberry",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "plants-2622866",
+    "name": "Artificial plants",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "plants-66719",
+    "name": "Evergreen",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-18319119",
+    "name": "2562",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-213765",
+    "name": "Führer",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-33946289",
+    "name": "Clothing insulation",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-13",
+    "name": "Clock",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-72888729",
+    "name": "Julia Allison",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "books-35783863",
+    "name": "Prize book",
+    "category": "books",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-197889",
+    "name": "Felix the Cat",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "electronics-1058980",
+    "name": "Braun (company)",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-52666750",
+    "name": "Jam (title)",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-22571957",
+    "name": "Original brand manufacturer",
+    "category": "brands",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-37258637",
+    "name": "Salt pig",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-14000293",
+    "name": "OpenSocial",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-16",
+    "name": "Money",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-supermn-61",
+    "name": "Superman",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": -1,
+      "is_famous": -1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "monarchs-19012",
+    "name": "Monarch",
+    "category": "monarchs",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-1136039",
+    "name": "Visionaries: Knights of the Magical Light",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_memes-37689166",
+    "name": "BuyTigers.com",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-25466113",
+    "name": "Cormophyte",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "celebrities-56763750",
+    "name": "30 Roc",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-37813643",
+    "name": "Communal President",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-72671527",
+    "name": "645AR",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "foods-2027907",
+    "name": "Cocoyam",
+    "category": "foods",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "merged-willim_shkespere-0",
+    "name": "William Shakespeare",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_politician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-25434957",
+    "name": "Harpsichord-viola",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-67356295",
+    "name": "3robi",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-32501079",
+    "name": "A-Lin",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-76046093",
+    "name": "Brilliant Labs",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-70382",
+    "name": "Blossom",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-709064",
+    "name": "Offset (botany)",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-39219632",
+    "name": "Conversocial",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-rin_grnde-66",
+    "name": "Ariana Grande",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-2863319",
+    "name": "Bee Movie",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-37728824",
+    "name": "2 Chainz",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-els-2",
+    "name": "Elsa (Frozen)",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": -1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "merged-simb-43",
+    "name": "Simba",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_memes-1616492",
+    "name": "Internet meme",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-43129464",
+    "name": "20syl",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-10317444",
+    "name": "Lifecasting (video stream)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-45671647",
+    "name": "Catvertising",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-7348384",
+    "name": "Young Marvelman",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "everyday_objects-15",
+    "name": "Paper",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": -1,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-1891317",
+    "name": "911 (wrestler)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-61570578",
+    "name": "Moustapha Ngae A-Bissene",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-drem-24",
+    "name": "Dream (YouTuber)",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "internet_celebrities-79653784",
+    "name": "Winta Zesu",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-40222602",
+    "name": "Jar opener",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-75394393",
+    "name": "Ivoox",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-20085410",
+    "name": "Käptn Blaubär",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "animated_chars-27866699",
+    "name": "Manon (character)",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_celebrities-68060584",
+    "name": "Natalia Guitler",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-208303",
+    "name": "Primary production",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-25164793",
+    "name": "Seed plant",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-18987332",
+    "name": "Wet bar",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-11742920",
+    "name": "BeoCom",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-51128933",
+    "name": "Amye Everard Ball",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-59638367",
+    "name": "Presidential exemption",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-232775",
+    "name": "President of the Senate",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-72304119",
+    "name": "Transpirational cooling (biological)",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-30022306",
+    "name": "360 (rapper)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-66918915",
+    "name": "Karuwa",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-77478284",
+    "name": "Organ landscape of East Frisia",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "military_leaders-58016146",
+    "name": "Aulus Braetius Sura",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-72102183",
+    "name": "1da Banton",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-72919874",
+    "name": "1ucid",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-64282991",
+    "name": "2 Black 2 Strong",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-64382769",
+    "name": "Issues relating to social networking services",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-mrbest-28",
+    "name": "MrBeast",
+    "category": "youtubers",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "merged-mrkiplier-69",
+    "name": "Markiplier",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "celebrities-52315048",
+    "name": "6lack",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-pikchu-51",
+    "name": "Pikachu",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_memes-50778",
+    "name": "Jar Jar Binks",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "military_leaders-2165979",
+    "name": "Abdul Rahman Ibrahima Sori",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": -1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-14161438",
+    "name": "Polysporangiophyte",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-43995953",
+    "name": "Spiral vegetable slicer",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-4856672",
+    "name": "Action (music)",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-79037455",
+    "name": "Big Boys (song)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "books-284477",
+    "name": "Bibliomania",
+    "category": "books",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-63217582",
+    "name": "Bobo brand",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-36743151",
+    "name": "3D Na'Tee",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-57706543",
+    "name": "24hrs (rapper)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-52303169",
+    "name": "A-Reece",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-6229445",
+    "name": "Zeitschrift für Instrumentenbau",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-530774",
+    "name": "Fritz the Cat",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-77091845",
+    "name": "310babii",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-41162671",
+    "name": "The 6th Letter",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-25407774",
+    "name": "Yakuza (franchise)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-78899293",
+    "name": "Once (dating platform)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-22113",
+    "name": "No Logo",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-66345698",
+    "name": "EyeHarp",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-60262514",
+    "name": "El Bananero",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-69253835",
+    "name": "Online brand defense",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-45341261",
+    "name": "4mat",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-1519441",
+    "name": "Gaydar (website)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-234189",
+    "name": "Individual branding",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-50439440",
+    "name": "9MOTHER9HORSE9EYES9",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-3657357",
+    "name": "A-do",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-74217316",
+    "name": "Threads (social network)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "monarchs-1466026",
+    "name": "Eze",
+    "category": "monarchs",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-74676961",
+    "name": "Meitei clothing",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "foods-32216939",
+    "name": "Food preparation",
+    "category": "foods",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "social_media-3894939",
+    "name": "Ekiga",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-yod-38",
+    "name": "Yoda",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_memes-60432023",
+    "name": "Jawad Bendaoud",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-79059794",
+    "name": "Sacheus !Gonteb",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-15210042",
+    "name": "Kitchen utensil",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-64116915",
+    "name": "Tellonym",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-28367676",
+    "name": "Bed Intruder Song",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-73211492",
+    "name": "Clothing physiology",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-79521183",
+    "name": "454 (rapper)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-72316310",
+    "name": "Hive Social",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-godzill-76",
+    "name": "Godzilla",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "social_media-66302932",
+    "name": "Clubhouse (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-18138191",
+    "name": "The \"Blog\" of \"Unnecessary\" Quotation Marks",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-2904368",
+    "name": "Fictional brand",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "plants-62176263",
+    "name": "Barinophytopsida",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "philosophers-161227",
+    "name": "Critic",
+    "category": "philosophers",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-43388949",
+    "name": "Tawkers",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-33342975",
+    "name": "Krrish (character)",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "foods-79913538",
+    "name": "Maithil Brahmin Bhoj",
+    "category": "foods",
+    "answers": {
+      "is_human": -1,
+      "is_living": -1,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "vehicles-64718903",
+    "name": "SAM (automotive)",
+    "category": "vehicles",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-1867733",
+    "name": "2 Cold Scorpio",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-532291",
+    "name": "Badgers (animation)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_memes-771114",
+    "name": "Wilford Brimley",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-3675940",
+    "name": "2Baba",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-18",
+    "name": "Lock and key",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 1,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "game_chars-233206",
+    "name": "Police Quest",
+    "category": "game_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "viral_videos-69897786",
+    "name": "Angry German Kid",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_celebrities-68236750",
+    "name": "Kid influencer",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-61605907",
+    "name": "2C (musician)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-slender_mn-46",
+    "name": "Slender Man",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1,
+      "is_youtuber": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-1034453",
+    "name": "Podcast",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "sports-25778403",
+    "name": "Sport",
+    "category": "sports",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-2601638",
+    "name": "Fire blanket",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-4511787",
+    "name": "Clairtone",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-78728486",
+    "name": "CMF (brand)",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-1004362",
+    "name": "Hùng king",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-734865",
+    "name": "Zill",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-76510222",
+    "name": "Daniel C. Lynch",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-1336442",
+    "name": "High king",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "books-79081579",
+    "name": "Oath book",
+    "category": "books",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-57904572",
+    "name": "38 Spesh",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-24928851",
+    "name": "Chord Master",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-63108627",
+    "name": "Tonograph",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-21131741",
+    "name": "Wardrobe (clothing)",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-283610",
+    "name": "Juicer",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-6041292",
+    "name": "Mortarium",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-45717116",
+    "name": "Fontomfrom",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-nruto_uzumki-52",
+    "name": "Naruto Uzumaki",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_celebrities-27857285",
+    "name": "Francesco Bellissimo",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-43239837",
+    "name": "Odd Man (comics)",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "clothing-65671333",
+    "name": "Fit and flare",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-15957815",
+    "name": "Flattop grill",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-64771765",
+    "name": "Slowly (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-12561015",
+    "name": "4chan",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-4783986",
+    "name": "Grand Župan",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-tiktok-64",
+    "name": "TikTok",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-27406894",
+    "name": "Musical instrument",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-chrles_drwin-9",
+    "name": "Charles Darwin",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-53170801",
+    "name": "Alan Becker",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "military_leaders-71929564",
+    "name": "Ormon Khan",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": -1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "personal-My_cat-4",
+    "name": "My cat",
+    "category": "personal",
+    "answers": {
+      "is_famous": -1,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_personal": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "brands-7561354",
+    "name": "Sensational spelling",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-62904359",
+    "name": "Biliprotein",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-45589261",
+    "name": "Combination plate",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-6012951",
+    "name": "Brionvega",
+    "category": "electronics",
+    "answers": {
+      "has_screen": -1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-210282",
+    "name": "Semi-presidential republic",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-53461533",
+    "name": "6ix (record producer)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "foods-10646",
+    "name": "Food",
+    "category": "foods",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "everyday_objects-19",
+    "name": "Glasses",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-logn_pul-49",
+    "name": "Logan Paul",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "celebrities-80743247",
+    "name": "4cf (singer)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-42896288",
+    "name": "Steam juicer",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-scooby_doo-25",
+    "name": "Scooby-Doo",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_memes-18621939",
+    "name": "Battletoads",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-38633473",
+    "name": "Alphanumeric brand name",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-lionel_messi-39",
+    "name": "Lionel Messi",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-78289384",
+    "name": "Kong (Monsterverse)",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-70432416",
+    "name": "347aidan",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-3574578",
+    "name": "Acoustic resonance",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-18014454",
+    "name": "Independent inventor",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-63826404",
+    "name": "42 Dugg",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animals-11039790",
+    "name": "Animal",
+    "category": "animals",
+    "answers": {
+      "can_fly": 0,
+      "has_fur_feathers": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0,
+      "lives_in_water": 0
+    }
+  },
+  {
+    "id": "social_media-42274149",
+    "name": "Pump.io",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-44312",
+    "name": "Invention",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-elizbeth_ii-35",
+    "name": "Elizabeth II",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": -1,
+      "is_male": -1,
+      "is_politician": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "merged-hrry_potter-53",
+    "name": "Harry Potter",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 1,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-57419723",
+    "name": "88Camino",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-80634092",
+    "name": "A for Adley",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-79421246",
+    "name": "Chilean toaster",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "heads_of_state-713664",
+    "name": "21-gun salute",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-60314143",
+    "name": "9lokkNine",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-65567653",
+    "name": "Co–Star",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-62929561",
+    "name": "Huddles (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "video_games-80457007",
+    "name": "Persuasive video games",
+    "category": "video_games",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_multiplayer": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "superheroes-2251158",
+    "name": "Captain Power and the Soldiers of the Future",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-49977006",
+    "name": "COBRA (consumer theory)",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "athletes-80782596",
+    "name": "User:Sam10rc/Rocío Arroyo",
+    "category": "athletes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-spongebob_squrepnts-60",
+    "name": "SpongeBob SquarePants",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "books-49304088",
+    "name": "Book desert",
+    "category": "books",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-80787284",
+    "name": "Heracleum sphondylium var. nipponicum",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-3055013",
+    "name": "Lead instrument",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-justin_bieber-11",
+    "name": "Justin Bieber",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-30786862",
+    "name": "Brand preference",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-594432",
+    "name": "Executive president",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-65576784",
+    "name": "220 Kid",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-1424866",
+    "name": "Plate (dishware)",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-27904902",
+    "name": "Diaryland",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-50810237",
+    "name": "Jack'd",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-44072452",
+    "name": "Movim",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-206578",
+    "name": "Presidential system",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-69723037",
+    "name": "Fitlads",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-6571506",
+    "name": "Dewaniya",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-58299996",
+    "name": "A Zin Latt",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-jcksepticeye-23",
+    "name": "Jacksepticeye",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "celebrities-55914767",
+    "name": "6ix9ine",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-64003720",
+    "name": "826aska",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-beyonc-31",
+    "name": "Beyoncé",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "personal-A_phone-9",
+    "name": "A phone",
+    "category": "personal",
+    "answers": {
+      "is_electronic": 1,
+      "is_famous": -1,
+      "is_human": -1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_personal": -1,
+      "is_portable": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "countries-10288875",
+    "name": "Gaelic Ireland",
+    "category": "countries",
+    "answers": {
+      "is_human": 1,
+      "is_large_country": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-577576",
+    "name": "Caillou",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "viral_videos-27955480",
+    "name": "Batallion 50 Rock the Hebron Casbah",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-18275419",
+    "name": "Bearforce 1",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "personal-Me-2",
+    "name": "Me",
+    "category": "personal",
+    "answers": {
+      "is_famous": -1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_personal": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "merged-michel_jckson-65",
+    "name": "Michael Jackson",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-12277217",
+    "name": "Go Go Gophers",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "animated_chars-34953352",
+    "name": "Jerry the Tyke",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "youtubers-57313961",
+    "name": "YouTuber",
+    "category": "youtubers",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-18421797",
+    "name": "IMedix",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-66726724",
+    "name": "Koo (social network)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-2606880",
+    "name": "Consumer Electronics Hall of Fame",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-77104797",
+    "name": "Barbara's Rhubarb Bar",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-192481",
+    "name": "50 Cent",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-79229722",
+    "name": "1900Rugrat",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-1178458",
+    "name": "Flickr",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-1",
+    "name": "Laptop",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "scientists-887030",
+    "name": "Watson and Crick",
+    "category": "scientists",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-12285840",
+    "name": "Comparison of social networking software",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-1394141",
+    "name": "Baby monitor",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-1722204",
+    "name": "Ghostly Trio",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_celebrities-65778564",
+    "name": "Travel influencer",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-59438621",
+    "name": "Online streamer",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "monarchs-5610298",
+    "name": "Lamido",
+    "category": "monarchs",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "monarchs-80007339",
+    "name": "Loitongba",
+    "category": "monarchs",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-8627063",
+    "name": "Makitra",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-2239833",
+    "name": "Astro Boy (character)",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_celebrities-19776474",
+    "name": "Internet celebrity",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-32765003",
+    "name": "Truecaller",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-63649502",
+    "name": "Brommtopp",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-isc_newton-80",
+    "name": "Isaac Newton",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-14753582",
+    "name": "Presidential standard",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "military_leaders-49078904",
+    "name": "Benoyn Boyshar",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-2118305",
+    "name": "CorningWare",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-42132931",
+    "name": "Bar zither",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-11458545",
+    "name": "Beggin'",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-1961295",
+    "name": "David Bernal",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-336528",
+    "name": "President of the Continental Congress",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-9259588",
+    "name": "Eurekster",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "vehicles-62574090",
+    "name": "One-off vehicle",
+    "category": "vehicles",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-brd_pitt-14",
+    "name": "Brad Pitt",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 1,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-64987073",
+    "name": "G-Man Comics",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-2513911",
+    "name": "2Mex",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-70104029",
+    "name": "Arabic Kuthu",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-75829366",
+    "name": "Shah Umair",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-269013",
+    "name": "Sash",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-3014450",
+    "name": "Stromboli (food)",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-10849093",
+    "name": "Tortilla warmer",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-45695656",
+    "name": "Moments (social networking)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-40414087",
+    "name": "Animal Crossing Plaza",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-43671278",
+    "name": "TomSka",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "heads_of_state-2126165",
+    "name": "Dictator perpetuo",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-196150",
+    "name": "Presidency",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-995160",
+    "name": "VG Cats",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "viral_videos-12523034",
+    "name": "Geoffrey Baron (priest)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "military_leaders-74876835",
+    "name": "Khoza Mamayev",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": -1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-67030104",
+    "name": "Endosphere",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-486042",
+    "name": "A-Mei",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-66568350",
+    "name": "Pray.com",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-12066173",
+    "name": "Shorthand for orchestra instrumentation",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-77995785",
+    "name": "Vina Muliana",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-185015",
+    "name": "Khan (title)",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "military_leaders-58264037",
+    "name": "Bars Bek",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-julius_cesr-41",
+    "name": "Julius Caesar",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-22032703",
+    "name": "Clothing material",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "kitchen_utensils-41485856",
+    "name": "Pudding cloth",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-666817",
+    "name": "Orange County Choppers",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "kitchen_utensils-4429660",
+    "name": "Carafe",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-1894270",
+    "name": "Toleware",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-2127374",
+    "name": "New Interfaces for Musical Expression",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-6724462",
+    "name": "Chumby",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-69-26",
+    "name": "69 (number)",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-50808708",
+    "name": "Customer switching",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-63561594",
+    "name": "9m88",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-48148553",
+    "name": "Oyster glove",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-155292",
+    "name": "Denis d'or",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-9",
+    "name": "Microwave oven",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "musicians-1972139",
+    "name": "Sideman",
+    "category": "musicians",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-2041117",
+    "name": "Social networking service",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "internet_memes-47705060",
+    "name": "Bouzebal",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "brands-1330266",
+    "name": "Generic brand",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "brands-38224595",
+    "name": "Katya Katya Shehurina",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-jennifer_lwrence-50",
+    "name": "Jennifer Lawrence",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 1,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": -1,
+      "is_musician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-57205017",
+    "name": "03 Greedo",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-25499788",
+    "name": "40 (record producer)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-13981266",
+    "name": "Angry Video Game Nerd",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "books-80122371",
+    "name": "Book of the year",
+    "category": "books",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-71745517",
+    "name": "Mesob",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-29558152",
+    "name": "Instrumental idiom",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-511640",
+    "name": "5.1 surround sound",
+    "category": "electronics",
+    "answers": {
+      "has_screen": -1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-1245556",
+    "name": "King Kong",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "viral_videos-55546274",
+    "name": "Baby Shark",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-16407659",
+    "name": "Silver hallmarks",
+    "category": "brands",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-73588114",
+    "name": "Nostr",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-41786721",
+    "name": "OpenAutonomy",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-59461822",
+    "name": "Ateneo bullying incident",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-77421541",
+    "name": "Carl Halfar Uniformen-Mützen Fabrik",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-77427325",
+    "name": "2hollis",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-10489186",
+    "name": "Melamine resin",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-64461706",
+    "name": "IMIRAD",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-18446241",
+    "name": "108 (artist)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-19085530",
+    "name": "88-Keys",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-27639784",
+    "name": "Dipper well",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-42064288",
+    "name": "Overwolf",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-winston_churchill-7",
+    "name": "Winston Churchill",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-69145723",
+    "name": "Picquot ware",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-42164833",
+    "name": "Archival Disc",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-2854947",
+    "name": "Ilya Bryzgalov",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-55929",
+    "name": "Governor-general",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "superheroes-1819301",
+    "name": "Superguy",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-18967",
+    "name": "Flowering plant",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-6078697",
+    "name": "Music instrument technology",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-51847",
+    "name": "Daffy Duck",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "vehicles-69672343",
+    "name": "Underwater vehicle",
+    "category": "vehicles",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-74848067",
+    "name": "Chris and Patrick Vörös",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-5861717",
+    "name": "Stan Lee Media",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": -1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-27871572",
+    "name": "Disqus",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-189768",
+    "name": "Consumer electronics",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "viral_videos-4434812",
+    "name": "Viral video",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-3313339",
+    "name": "Hakim (title)",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-64006043",
+    "name": "Simply Local",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animals-3817372",
+    "name": "Lists of animals",
+    "category": "animals",
+    "answers": {
+      "can_fly": 0,
+      "has_fur_feathers": 0,
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0,
+      "lives_in_water": 0
+    }
+  },
+  {
+    "id": "clothing-38180",
+    "name": "Clothing",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-35684112",
+    "name": "Right to clothing",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "foods-80189807",
+    "name": "Ligaya Mishan",
+    "category": "foods",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "merged-npoleon-3",
+    "name": "Napoleon",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-48916",
+    "name": "Model (person)",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "presidents-44894299",
+    "name": "Presidential train",
+    "category": "presidents",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-65064069",
+    "name": "Superheroes Are Everywhere",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-shrek-56",
+    "name": "Shrek",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1,
+      "is_youtuber": 0
+    }
+  },
+  {
+    "id": "internet_memes-23963145",
+    "name": "Canal Livre",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-18248423",
+    "name": "Flame broiler",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-69607969",
+    "name": "Schoology",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged--16",
+    "name": "Actor",
+    "category": "actors",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": -1,
+      "is_superhero": 0
+    }
+  },
+  {
+    "id": "plants-54780428",
+    "name": "Stomatophyta",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-3873141",
+    "name": "2Play",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "vehicles-32410",
+    "name": "Vehicle",
+    "category": "vehicles",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-48324366",
+    "name": "Batteroo Boost",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-pewdiepie-33",
+    "name": "PewDiePie",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0,
+      "is_youtuber": 1
+    }
+  },
+  {
+    "id": "foods-80439736",
+    "name": "Arganak",
+    "category": "foods",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "internet_memes-1138164",
+    "name": "Jimmy Barnes",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-80144748",
+    "name": "Kurdish musical instruments",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-iron_mn-83",
+    "name": "Iron Man",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "actors-62064939",
+    "name": "David Corenswet",
+    "category": "actors",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "personal-The_Sun-8",
+    "name": "The Sun",
+    "category": "personal",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_personal": -1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "brands-240666",
+    "name": "Corporate branding",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-76855159",
+    "name": "2boys.tv",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "kitchen_utensils-8651817",
+    "name": "Pastry brush",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-12",
+    "name": "Shoe",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-25682554",
+    "name": "International Federation of Inventors' Associations",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-76246243",
+    "name": "Influencer",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-52635406",
+    "name": "Sokuri",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-13541877",
+    "name": "KickApps",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-12706340",
+    "name": "MOSH (Nokia)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-21132349",
+    "name": "Casper the Friendly Ghost",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-77056690",
+    "name": "6arelyhuman",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-23231061",
+    "name": "40 Glocc",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-65374839",
+    "name": "808Melo",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-31800185",
+    "name": "EgoNet",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-46176335",
+    "name": "Known (software)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animals-79870211",
+    "name": "Cycliomedusa",
+    "category": "animals",
+    "answers": {
+      "can_fly": 0,
+      "has_fur_feathers": 0,
+      "is_human": 0,
+      "is_living": -1,
+      "is_real": 0,
+      "lives_in_water": 0
+    }
+  },
+  {
+    "id": "clothing-63606143",
+    "name": "Enclothed cognition",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-9853976",
+    "name": "Neckwear",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-43068645",
+    "name": "The Kitchen Library",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-78846081",
+    "name": "Dominique Brown (influencer)",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-30557856",
+    "name": "Australian head of state dispute",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-80611782",
+    "name": "Urtica hyperborea",
+    "category": "plants",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "anime_chars-40849936",
+    "name": "Danbo (character)",
+    "category": "anime_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-69667313",
+    "name": "25K",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-dolf_hitler-34",
+    "name": "Adolf Hitler",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-63473185",
+    "name": "Cake and Cunnilingus Day",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "tv_personalities-79856000",
+    "name": "Ruth Kulaisi",
+    "category": "tv_personalities",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-8891128",
+    "name": "Spoon rest",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-23095161",
+    "name": "OpenDesktop.org",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-1034215",
+    "name": "Kool-Aid Man",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "social_media-52840458",
+    "name": "Mastodon (social network)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-25059104",
+    "name": "Pogo (musician)",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-804036",
+    "name": "Caliphate",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "foods-34375483",
+    "name": "Human food",
+    "category": "foods",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-4736335",
+    "name": "Scotch hands",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-15566954",
+    "name": "Optical sound",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-spider_mn-5",
+    "name": "Spider-Man",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "books-449363",
+    "name": "Book cipher",
+    "category": "books",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-79580502",
+    "name": "Anban (utensil)",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-72997325",
+    "name": "Ọjà",
+    "category": "instruments",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "internet_memes-17032908",
+    "name": "Shakeel Ahmad Bhat",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-mong_us-77",
+    "name": "Among Us",
+    "category": "internet_culture",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 1,
+      "is_youtuber": 0
+    }
+  },
+  {
+    "id": "celebrities-48312972",
+    "name": "100 Kila",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-6304898",
+    "name": "French butter dish",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-61563371",
+    "name": "ShareChat",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-79896895",
+    "name": "Siarhei Besarab",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 1,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-2806451",
+    "name": "Beetlejuice (entertainer)",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "heads_of_state-2144204",
+    "name": "Elteber",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-mrtin_lur_king_jr-59",
+    "name": "Martin Luther King Jr.",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-72360762",
+    "name": "Grain From Ukraine program",
+    "category": "brands",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-56435452",
+    "name": "1788-L",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animals-425938",
+    "name": "Animal cognition",
+    "category": "animals",
+    "answers": {
+      "can_fly": 0,
+      "has_fur_feathers": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0,
+      "lives_in_water": 1
+    }
+  },
+  {
+    "id": "foods-8097",
+    "name": "Dairy product",
+    "category": "foods",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0,
+      "is_sweet": 0
+    }
+  },
+  {
+    "id": "electronics-330282",
+    "name": "Camcorder",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-tom_hollnd-1",
+    "name": "Tom Holland",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 1,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-2812578",
+    "name": "Garfield (character)",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "kitchen_utensils-16053164",
+    "name": "Potholder",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-14967787",
+    "name": "Kaltura",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-ldy_gg-18",
+    "name": "Lady Gaga",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": -1,
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": -1,
+      "is_musician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-75940388",
+    "name": "Bling-Bang-Bang-Born",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "monarchs-28687568",
+    "name": "Nigerian traditional rulers",
+    "category": "monarchs",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-59339448",
+    "name": "Blueface",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "superheroes-41692694",
+    "name": "Super Chicha",
+    "category": "superheroes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "kitchen_utensils-1564176",
+    "name": "Egg timer",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-brhm_lincoln-12",
+    "name": "Abraham Lincoln",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_politician": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-68438113",
+    "name": "Primeros",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-19828134",
+    "name": "Plant",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-65876511",
+    "name": "Seed blanking",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-6404869",
+    "name": "Blu-ray Disc recordable",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-8142339",
+    "name": "Pie bird",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-24028755",
+    "name": "Planephones",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-79346868",
+    "name": "Émile Dufresne",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-72084358",
+    "name": "18yoman",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-37598430",
+    "name": "A-Lee",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-70554400",
+    "name": "BeReal",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_photo_sharing": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "inventors-79519615",
+    "name": "Cyril Lalo",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "personal-My_dog-3",
+    "name": "My dog",
+    "category": "personal",
+    "answers": {
+      "is_famous": -1,
+      "is_human": -1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_personal": 1,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "heads_of_state-58043",
+    "name": "Chinese sovereign",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": -1,
+      "is_male": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "plants-18992839",
+    "name": "JULES",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-44431173",
+    "name": "Display (social network)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-christopher_columbus-19",
+    "name": "Christopher Columbus",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 1,
+      "is_politician": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_memes-40505955",
+    "name": "Viral phenomenon",
+    "category": "internet_memes",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-23617809",
+    "name": "Permanent vegetative cover",
+    "category": "plants",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-28009812",
+    "name": "Activity stream",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-3925334",
+    "name": "Cubix",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "everyday_objects-5",
+    "name": "Chair",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-14",
+    "name": "Pen",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": -1,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "musicians-201480",
+    "name": "Virtuoso",
+    "category": "musicians",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-2188910",
+    "name": "9th Prince",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-3157929",
+    "name": "Original design manufacturer",
+    "category": "brands",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-62083967",
+    "name": "24kGoldn",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-36809312",
+    "name": "Spaces (social network)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "instruments-57364440",
+    "name": "Janzi (musical instrument)",
+    "category": "instruments",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "inventors-78203625",
+    "name": "Lisa Seacat DeLuca",
+    "category": "inventors",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-76116349",
+    "name": "4Batz",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-56046776",
+    "name": "Roposo",
+    "category": "social_media",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_photo_sharing": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-11",
+    "name": "Toothbrush",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": -1,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-drke-63",
+    "name": "Drake",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 0,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_musician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "military_leaders-78371719",
+    "name": "Al-Harith ibn Murra al-Abdi",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "brands-18935023",
+    "name": "Trademark",
+    "category": "brands",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-65184156",
+    "name": "Plant microbiome",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "celebrities-72191552",
+    "name": "2Rare",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-1926213",
+    "name": "A-1 (wrestler)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-6",
+    "name": "Table",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": -1,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "everyday_objects-17",
+    "name": "Credit card",
+    "category": "everyday_objects",
+    "answers": {
+      "is_electronic": 0,
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-1617971",
+    "name": "Pteridophyte",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-3247336",
+    "name": "1-bit DAC",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 1
+    }
+  },
+  {
+    "id": "merged-lbert_einstein-37",
+    "name": "Albert Einstein",
+    "category": "historical_figures",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 1,
+      "is_male": 1,
+      "is_politician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-monkey_d_luffy-55",
+    "name": "Monkey D. Luffy",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "animated_chars-40961750",
+    "name": "Din Dong",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 1,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-30763478",
+    "name": "12th Planet (musician)",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-homer_simpson-67",
+    "name": "Homer Simpson",
+    "category": "fictional_characters",
+    "answers": {
+      "has_superpowers": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "heads_of_state-13456",
+    "name": "Head of state",
+    "category": "heads_of_state",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-66236244",
+    "name": "A F M Khalid Hossain",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-2274925",
+    "name": "Mobile social software",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "merged-cristino_ronldo-32",
+    "name": "Cristiano Ronaldo",
+    "category": "celebrities",
+    "answers": {
+      "is_actor": 0,
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 1,
+      "is_musician": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-63102753",
+    "name": "22Gz",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-8430380",
+    "name": "Online health communities",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-74919453",
+    "name": "2023 Qaraqosh wedding fire",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-11917309",
+    "name": "Battle at Kruger",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "clothing-39964793",
+    "name": "Semiotics of dress",
+    "category": "clothing",
+    "answers": {
+      "is_footwear": -1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "celebrities-51416229",
+    "name": "0010x0010",
+    "category": "celebrities",
+    "answers": {
+      "is_human": 0,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-2916343",
+    "name": "Eva (social network)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-69722529",
+    "name": "Hornet (app)",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "animated_chars-9441052",
+    "name": "The Mézga Family",
+    "category": "animated_chars",
+    "answers": {
+      "is_famous": 0,
+      "is_human": -1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": -1
+    }
+  },
+  {
+    "id": "military_leaders-77870986",
+    "name": "Ahmad ibn Abi Khalid al-Ahwal",
+    "category": "military_leaders",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "electronics-63700901",
+    "name": "Casio CA-53W",
+    "category": "electronics",
+    "answers": {
+      "has_screen": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_portable": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "internet_celebrities-79611656",
+    "name": "Ahmed El-Ghandour",
+    "category": "internet_celebrities",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 0,
+      "is_living": 0,
+      "is_male": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "kitchen_utensils-36604500",
+    "name": "Vacuum filler",
+    "category": "kitchen_utensils",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "plants-67353527",
+    "name": "Introgressive hybridization in plants",
+    "category": "plants",
+    "answers": {
+      "is_human": -1,
+      "is_living": 1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "social_media-66542773",
+    "name": "Odysee",
+    "category": "social_media",
+    "answers": {
+      "is_human": 0,
+      "is_living": 0,
+      "is_photo_sharing": -1,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "viral_videos-20899355",
+    "name": "Bear's Reach",
+    "category": "viral_videos",
+    "answers": {
+      "is_famous": 1,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  },
+  {
+    "id": "scientists-26997",
+    "name": "Scientist",
+    "category": "scientists",
+    "answers": {
+      "is_famous": 0,
+      "is_human": 1,
+      "is_living": 0,
+      "is_male": 0,
+      "is_real": 0
+    }
+  }
+]
