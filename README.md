@@ -1,7 +1,7 @@
 
 
 # 🧞‍♂️ Goinator
-A tiny https://en.akinator.com clone in https://go.dev
+A tiny [akinator](https://en.akinator.com) clone in [Go](https://go.dev)
 Ask questions, guess characters, learn new ones.
 
 ---
